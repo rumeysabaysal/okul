@@ -6,4 +6,4 @@ This app is a school project that introduces the locations of educational progra
 
 <h2> Ekran Goruntusu</h2>
 
-! [] ()
+![](Ekran.gif)
