@@ -6,4 +6,4 @@ An app that showcases the locations of educational programs and campuses, enabli
 
 <h2> Ekran Goruntusu</h2>
 
-![](Ekran.gif)
+![](ekranus.gif)
